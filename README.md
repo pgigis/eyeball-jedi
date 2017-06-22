@@ -1,6 +1,6 @@
 # eyeball-jedi
 
-The code of the Eyeball-Jedi will be soon realised.
+The code of the Eyeball-Jedi will be soon released.
 
 Until then you can find the online prototype of the tool at the following two links:
 
